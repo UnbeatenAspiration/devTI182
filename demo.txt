@@ -1,8 +1,7 @@
 Change to something new
-one
 two
-three
-four
-five
+new word
+fatum
+Lorem Ipsum
 six
 seven
